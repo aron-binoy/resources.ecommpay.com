@@ -1,1 +1,1 @@
-# resources.ecommpay.com
+#subdomain takeover by aron
